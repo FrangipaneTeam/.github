@@ -3,4 +3,4 @@
   <a href="https://frangipane.io">Website</a> 
 </p>
 
-Frangipane is a french team. <br/> We are working on [lots of projects](https://frangipane.io) based on Go language.
+Frangipane Team is a french team. <br/> We are working on [lots of projects](https://frangipane.io) based on Go language.
